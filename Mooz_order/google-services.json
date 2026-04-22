@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447771458322",
+    "project_id": "mooz-order",
+    "storage_bucket": "mooz-order.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447771458322:android:cd5c13863bf81955a051cb",
+        "android_client_info": {
+          "package_name": "com.yourcompany.moozorde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujc1BK3OIEcKsRN3g0I6JFcd38dJsiy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
